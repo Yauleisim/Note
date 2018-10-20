@@ -1,5 +1,4 @@
 Android面试题（一）——Activity
-
 ===
 
 1. Activity生命周期
@@ -61,7 +60,7 @@ Android面试题（一）——Activity
 
      - 代码设置会优先于清单文件设置 。
 
-     - 第一种方式无法为Activity直接指定 **FLAG_ACTIVITY_CLEAR_TOP** 标识，另外一种方式无法为Activity指定 **singleInstance** 模式。 
+     - 第一种方式无法为Activity直接指定 **FLAG_ACTIVITY_CLEAR_TOP** 标识，另外一种方式无法为Activity指定 **singleInstance** 模式。 
 
    - standard：是Android的默认启动模式。这种模式下，Activity可以有**多个实例**，每次启动Activity，无论任务栈中是否已经有这个Activity的实例，系统都会**创建一个新的**Activity实例，
 

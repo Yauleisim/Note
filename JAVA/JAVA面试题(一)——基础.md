@@ -1,10 +1,9 @@
 JAVA面试题(一)——基础
-
 ===
 
 1. 修饰符访问权限
 
-   ![修饰符权限](E:\Typora\Note\JAVA\images\修饰符权限.PNG)
+   ![修饰符权限](images/修饰符权限.PNG)
 
 2. 面向对象特性
 

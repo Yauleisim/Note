@@ -1,5 +1,4 @@
 Android面试题（二）——Service
-
 ===
 
 1. Service启动方法
